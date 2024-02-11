@@ -1,0 +1,12 @@
+{
+  "title": "NH",
+  "description": "no",
+  "artist": "no",
+  "author": "no",
+  "cover": "https://t.nhentai.net/galleries/1786347/cover.jpg",
+  "chapters": {
+    "1": {
+      "title": "[Midorino Tanuki] Renjou Fructus",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/nhentai/chapter/338625/"
