@@ -1,12 +1,12 @@
 {
-  "title": "NH",
+  "title": "testing",
   "description": "no",
   "artist": "no",
   "author": "no",
-  "cover": "https://t.nhentai.net/galleries/1786347/cover.jpg",
+  "cover": "https://cdn.imgchest.com/files/j7kzc29aw57.png",
   "chapters": {
     "1": {
-      "title": "[Midorino Tanuki] Renjou Fructus",
+      "title": "tesing",
       "volume": "0",
       "groups": {
-        "<group name>": "/proxy/api/nhentai/chapter/338625/"
+        "<group name>": "/proxy/api/imgchest/chapter/qe4gdn59k4j/"
