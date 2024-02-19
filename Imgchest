@@ -20,6 +20,22 @@
         "<group name>": "/proxy/api/imgchest/chapter/md7og2v6lyp/"
   },
       "last_updated": "1616368746"
+                                 },
+    "3": {
+      "title": "throne of innonence_blue",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/imgchest/chapter/5xy2prvv97l/"
+  },
+      "last_updated": "1616368746"
+                                 },
+    "3.1": {
+      "title": "throne of innonence_red",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/imgchest/chapter/wl7lxnjpq7x/"
+  },
+      "last_updated": "1616368746"
                                  }
      }
     }
