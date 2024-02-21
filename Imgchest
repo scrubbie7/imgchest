@@ -1,12 +1,12 @@
 {
-  "title": "testing",
+  "title": "side",
   "description": "no",
   "artist": "no",
   "author": "no",
   "cover": "https://cdn.imgchest.com/files/j7kzc29aw57.png",
   "chapters": {
     "1": {
-      "title": "tesing",
+      "title": "NH",
       "volume": "0",
       "groups": {
         "<group name>": "/proxy/api/imgchest/chapter/qe4gdn59k4j/"
