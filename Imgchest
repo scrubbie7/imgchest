@@ -44,6 +44,22 @@
         "<group name>": "/proxy/api/imgchest/chapter/xny8xgb6d4b/"
   },
       "last_updated": "1616368746"
+                                 },
+    "5": {
+      "title": "[s]nsfw_black",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/imgchest/chapter/bp45xag3v75/"
+  },
+      "last_updated": "1616368746"
+                                 },
+    "5.1": {
+      "title": "[s] nsfw_orange+green",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/imgchest/chapter/qe4gdon8o4j/"
+  },
+      "last_updated": "1616368746"
                                  }
      }
     }
