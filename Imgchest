@@ -116,8 +116,23 @@
         "<group name>": "/proxy/api/imgchest/chapter/9249gxnqm7n/"
   },
       "last_updated": "1616368746"
+                                 },
+    "12": {
+      "title": "[s]childhood bride_blue",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/imgchest/chapter/ljyqzqpbny2/"
+  },
+      "last_updated": "1616368746"
+                                 },
+    "12.1": {
+      "title": "[s]childhood bride_yellow,BLK,rand",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/imgchest/chapter/agyvw6ppj48/"
+  },
+      "last_updated": "1616368746"
                                  }
      }
     }
-
 
